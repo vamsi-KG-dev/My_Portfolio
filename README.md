@@ -3,8 +3,7 @@
 A modern personal portfolio website showcasing my skills, projects, certifications, and experience in **Data Science & Analytics**.
 
 ## 🔗 Live Portfolio
-https://vamsi-kg-dev.github.io/your-repo-name  
-*(Update link after deployment)*
+*(https://vamsi-kg-dev.github.io/My_Portfolio/)*
 
 ## 👨‍💻 About Me
 I am **G Vamsi Krishna**, an aspiring **Data Scientist & Data Analyst** with a strong interest in **Machine Learning, Artificial Intelligence, and data-driven problem solving**.
